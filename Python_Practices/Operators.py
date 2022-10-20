@@ -70,6 +70,7 @@ x = 2
 y = 3
 
 out = (a < b) or (x > y) # True because the first one is True
+
 print(out)
 
 out = (a > b) or (x < y)
@@ -113,3 +114,4 @@ print (results)
 
 results = a is not b
 print (results)
+
